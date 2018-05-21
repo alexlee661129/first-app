@@ -4,7 +4,7 @@ import { Component, OnInit } from '@angular/core';
   selector: 'app-page2',
   template: `
     <p>
-      page2 Works!
+      page2 Works2222!
     </p>
   `,
   styles: []
